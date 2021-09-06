@@ -20,7 +20,7 @@ export const state = {
             title: 'File Explorer',
             technologies: ['JavaScript', 'HTML5', 'CSS3', 'Webpack', 'Babel'],
             link: 'https://melrose13-69.github.io/explorer/dist/',
-            filesLink: 'https://github.com/melrose13-69/explorer',
+            gitHub: 'https://github.com/melrose13-69/explorer',
             img: explorerLogo,
             description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda at commodi dolorum facere fugiat, illo illum ipsa labore laborum molestias mollitia pariatur sit vitae, voluptate voluptates! Enim error perspiciatis repellat.'
         },
@@ -28,7 +28,7 @@ export const state = {
             title: 'File Explorer',
             technologies: ['JavaScript', 'HTML5', 'CSS3', 'Webpack', 'Babel'],
             link: 'https://melrose13-69.github.io/explorer/dist/',
-            filesLink: 'https://github.com/melrose13-69/explorer',
+            gitHub: 'https://github.com/melrose13-69/explorer',
             img: explorerLogo,
             description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda at commodi dolorum facere fugiat, illo illum ipsa labore laborum molestias mollitia pariatur sit vitae, voluptate voluptates! Enim error perspiciatis repellat.'
         },
@@ -36,7 +36,7 @@ export const state = {
             title: 'File Explorer',
             technologies: ['JavaScript', 'HTML5', 'CSS3', 'Webpack', 'Babel'],
             link: 'https://melrose13-69.github.io/explorer/dist/',
-            filesLink: 'https://github.com/melrose13-69/explorer',
+            gitHub: 'https://github.com/melrose13-69/explorer',
             img: explorerLogo,
             description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda at commodi dolorum facere fugiat, illo illum ipsa labore laborum molestias mollitia pariatur sit vitae, voluptate voluptates! Enim error perspiciatis repellat.'
         },
