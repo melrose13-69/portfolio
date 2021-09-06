@@ -29,7 +29,7 @@ const Aside = props => {
                         <span className={s.hover}>Github</span>
                     </li>
                     <li>
-                        <a rel='noreferrer' href="https://www.linkedin.com/in/victor-poltoratchi-279b141a3/">
+                        <a rel='noreferrer' target='_blank' href="https://www.linkedin.com/in/victor-poltoratchi-279b141a3/">
                             <FontAwesomeIcon icon={faLinkedin}/>
                         </a>
                         <span className={s.hover}>LinkedIn</span>

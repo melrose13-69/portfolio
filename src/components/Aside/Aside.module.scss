@@ -42,12 +42,14 @@
       margin-right: 15px;
       font-size: 20px;
       transition: all .4s;
+      font-weight: 600;
       &:hover,
       &.selected {
         padding: 0 10px;
-        font-weight: 600;
+        color: #dba425;
         & ~ svg {
-          font-size: 25px;
+          font-size: 20px;
+          color: #dba425;
         }
       }
     }
