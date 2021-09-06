@@ -1,0 +1,49 @@
+.aside {
+  z-index: 10;
+  color: #FFF;
+  position: fixed;
+  top: 0;
+  left: 0;
+  max-width: 300px;
+  width: 100%;
+  height: 100%;
+  background: #222;
+  text-transform: uppercase;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  font-size: 30px;
+  background: transparent url('../../assets/img/logo-1.png') no-repeat 50% 50%;
+  background-size: cover;
+  margin: 50px 0;
+}
+
+.asideNav {
+  padding-left: 50px;
+  li {
+    display: flex;
+    align-items: center;
+    height: 45px;
+    svg {
+      transition: all .4s;
+    }
+    a {
+      margin-right: 15px;
+      font-size: 20px;
+      transition: all .4s;
+      &:hover,
+      &.selected {
+        padding: 0 10px;
+        font-weight: 600;
+        & ~ svg {
+          font-size: 25px;
+        }
+      }
+    }
+  }
+}
+
