@@ -12,7 +12,7 @@ const App = props => {
         <div className='wrapper'>
             <Aside/>
             <main>
-                <Route path={ '/home' } render={ () => <HomePage/> }/>
+                <Route exact path={ '/' } render={ () => <HomePage/> }/>
                 <Route path={ '/about' } render={ () => <About skills={ props.state.skills }/> }/>
                 <Route path={ '/portfolio' } render={ () => <Portfolio portfolio={ props.state.portfolio }/> }/>
             </main>

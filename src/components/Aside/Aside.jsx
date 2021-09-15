@@ -14,7 +14,7 @@ const Aside = props => {
             <nav className={ s.asideNav }>
                 <ul className={ s.asideMenu }>
                     <li>
-                        <NavLink to={ '/home' } activeClassName={ s.selected }>Home</NavLink>
+                        <NavLink exact to={ '/' } activeClassName={ s.selected }>Home</NavLink>
                         <FontAwesomeIcon icon={ faLongArrowAltRight }/>
                     </li>
                     <li>

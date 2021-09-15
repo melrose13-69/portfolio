@@ -39,7 +39,7 @@ export const state = {
             link: 'https://melrose13-69.github.io/marketPlace/',
             gitHub: 'https://github.com/melrose13-69/marketPlace',
             img: marketPlaceLogo,
-            description: 'My first project on ReactJS after completed course. I started the project from 0.. I did it by analogy with what we did on the course, but a lot was new to me, I really liked the ReactJS/Redux stack. It was interesting to write my own project using this technology. I would like to work more with ReactJS. Unfortunately, the mobile version is not yet ready'
+            description: 'My first project on ReactJS after completed course. I started the project from 0.. I did it by analogy with what we did on the course, but a lot was new to me, I really liked the ReactJS/Redux stack. It was interesting to write my own project using this technology. I would like to work more with ReactJS. Unfortunately, the mobile version is not yet ready. The project is not finished, there are still many ideas and improvements'
         },
     ]
 };

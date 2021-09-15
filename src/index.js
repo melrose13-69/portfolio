@@ -8,7 +8,7 @@ import state from './state';
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <App state={state}/>
         </BrowserRouter>
     </React.StrictMode>,
