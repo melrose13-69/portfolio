@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f4cb2b68.chunk.css",
-    "main.js": "/portfolio/static/js/main.48e79c5e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.48e79c5e.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.02d4334c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.02d4334c.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.883f3a10.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.883f3a10.js.map",
     "static/css/2.dd4b9a0f.chunk.css": "/portfolio/static/css/2.dd4b9a0f.chunk.css",
@@ -19,13 +19,14 @@
     "static/media/marketplace.2feecfca.png": "/portfolio/static/media/marketplace.2feecfca.png",
     "static/media/App.scss": "/portfolio/static/media/montserrat-v18-latin_cyrillic-regular.c25ae5d1.ttf",
     "static/media/not-found.acdbcc43.png": "/portfolio/static/media/not-found.acdbcc43.png",
-    "static/media/photo.27242646.jfif": "/portfolio/static/media/photo.27242646.jfif"
+    "static/media/photo.27242646.jfif": "/portfolio/static/media/photo.27242646.jfif",
+    "static/media/todoList.c42f388b.png": "/portfolio/static/media/todoList.c42f388b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.883f3a10.js",
     "static/css/2.dd4b9a0f.chunk.css",
     "static/js/2.1cae817f.chunk.js",
     "static/css/main.f4cb2b68.chunk.css",
-    "static/js/main.48e79c5e.chunk.js"
+    "static/js/main.02d4334c.chunk.js"
   ]
 }
